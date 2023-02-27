@@ -26,12 +26,6 @@
   </dependencies>	
 
 	<distributionManagement>
-	
-	    <repository>
-	      <id>nexus</id>
-	      <name>akash Releases Nexus Repository</name>
-	      <url>http://13.235.238.130:8081/repository/akash-release/</url>
-	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
