@@ -30,13 +30,13 @@
 		<repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.234.226.223:8081/repository/akash-release/</url>
+	      <url>http://13.234.226.223:8081/repository/chinnu-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>akash Snapshot Nexus Repository </name>
-	      <url>http://13.234.226.223:8081/repository/akash-snapshot/</url>
+	      <url>http://13.234.226.223:8081/repository/chinnu-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
